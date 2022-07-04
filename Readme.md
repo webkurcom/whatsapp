@@ -1,8 +1,7 @@
-Laravel Istanbul etkinliği için, laravel'de paket oluşturma ve yayınlamayı anlattım.
+Webkur.com alt modül sistemleri
 
-[Makale Linki](https://github.com/turkce-dokuman/laravel/blob/master/laravel_paket_yayinlama.md)
 
 ## Paket
 ```bash
-  composer require ahmetbarut/package-development
+  composer require webkurcom/whatsapp
 ```
