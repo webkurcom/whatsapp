@@ -1,0 +1,24 @@
+{
+    "name": "webkurcom/whatsapp",
+    "description": "Paket yayınlama",
+    "type": "package",
+    "license": "MIT",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "webkurcom\\whatsapp\\Provider\\LaravelIstanbulServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "webkurcom\\whatsapp\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Ahmet Barut",
+        "email": "webkurcom588@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {}
+}
